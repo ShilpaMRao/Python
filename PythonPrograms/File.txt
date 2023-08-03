@@ -1,0 +1,5 @@
+This is a text file i am using to test the line count.
+I hope this works.
+I love to code. 
+Coding is my life.
+I hope to get an excellent job as a programmer.
